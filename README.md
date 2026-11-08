@@ -83,5 +83,3 @@ The primary objectives of this project were:
 10. Install Windows 10/11 Pro on the client machine.
 
 Configure both machines to use the same isolated virtual network.
-
-**Expected
