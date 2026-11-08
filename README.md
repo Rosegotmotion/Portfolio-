@@ -73,7 +73,7 @@ The primary objectives of this project were:
 
 1. Open Oracle VirtualBox or VMware.
 2. Create a new virtual machine.
-3. Name the first machine `DC01`.
+3. Name the first machine `Rose`.
 4. Select Windows Server 2022 as the operating system.
 5. Allocate at least 2 CPU cores and 4 GB of RAM.
 6. Create a virtual hard drive with at least 60 GB of storage.
